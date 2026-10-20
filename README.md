@@ -1,2 +1,2 @@
 # Java Backend Journey 
-   Learning backend with Java and Spring Boot.
+Learning backend with Java, Spring Boot and PostgreSQL.
